@@ -6,6 +6,10 @@
     .about-containers {
       flex-wrap: wrap;
     }
+    #experience,
+    .experience-details-container {
+      margin-top: 2rem;
+    }
     #contact,
     #projects {
       height: fit-content;
@@ -106,3 +110,6 @@
       text-align: justify;
     }
   }
+
+  
+  

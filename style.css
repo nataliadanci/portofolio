@@ -254,6 +254,8 @@ section {
 }
 
 
+
+
 /* ICONS */
 
 .icon {
@@ -423,6 +425,7 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+
 /* CONTACT */
 
 #contact {
@@ -473,3 +476,4 @@ footer {
 footer p {
   text-align: center;
 }
+
